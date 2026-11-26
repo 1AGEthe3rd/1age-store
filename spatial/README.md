@@ -1,0 +1,6 @@
+# Spatial Design 010 — 1AGE Store
+Independent walkable official showroom prototype at spatial/index.html. Store is the first-party retail destination; Shop is the open independent-business marketplace. Five stations: flagship welcome, future merchandise, Plus, Cash and checkout information. Existing offers.js is reused for official offering copy. No merchandise inventory, live orders or payment processing is added. Existing test checkout is preserved but not launched from this spatial preview. Membership and internal credits remain subject to their own readiness requirements.
+
+Cosmic panoramic architecture, local rotating Earth, consistent walking and controller layout; based on the Quest spatial foundation pinned at 5d43fd6a3cfc10616cc22cf41ef6264ff946f4f5. Future design should resemble a premium anchor retailer within the cosmic mall ecosystem, with distinctive branded products and displays. Product and payment information must come from authoritative services when enabled.
+
+Browser, mobile, physical controller, visual quality and accessibility testing remain pending. No changes to existing production entry, checkout, offers, membership, payments, DNS or other applications. Obtain approval before merge and publication.
